@@ -77,7 +77,7 @@ Textarea and file upload
 Result cards for analysis output
 
 🔌 API Endpoints
-Analyze pasted logs
+### Analyze pasted logs
 POST /api/logs/analyze
 Content-Type: application/json
 
