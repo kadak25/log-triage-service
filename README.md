@@ -80,7 +80,7 @@ Result cards for analysis output
 ### Analyze pasted logs
 POST /api/logs/analyze
 Content-Type: application/json
-
+```http
 {
   "logContent": "..."
 }
@@ -90,6 +90,7 @@ POST /api/logs/analyze/file
 Content-Type: multipart/form-data
 
 file=@app.log
+```
 
 
 Accepted file types: .log, .txt
