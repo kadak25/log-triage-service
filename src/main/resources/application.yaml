@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: log-triage-service
+  servlet:
+    multipart:
+      max-file-size: 1MB
+      max-request-size: 1MB
+
+
+hf:
+  router-model: ${HF_ROUTER_MODEL:meta-llama/Meta-Llama-3-8B-Instruct}
+  timeout-seconds: 25
+
+
+rate-limit:
+  enabled: true
+  analyze-per-minute: 30
+  analyze-file-per-minute: 10
+
+
+
+
+
+
+
+
+

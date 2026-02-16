@@ -1,0 +1,4 @@
+2026-03-18 14:12:21 ERROR OrderService - Failed to create order
+java.lang.NullPointerException
+	at com.myapp.service.OrderService.createOrder(OrderService.java:42)
+	at com.myapp.controller.OrderController.create(OrderController.java:28)

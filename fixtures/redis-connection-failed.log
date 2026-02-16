@@ -1,0 +1,1 @@
+io.lettuce.core.RedisConnectionException: Unable to connect to Redis at localhost:6379

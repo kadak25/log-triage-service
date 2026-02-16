@@ -1,0 +1,8 @@
+2026-03-18 10:16:05.987 ERROR Failed to process request
+java.lang.NullPointerException at A
+
+2026-03-18 10:16:45.334 ERROR Database access error
+java.sql.SQLTransientConnectionException: timeout
+
+2026-03-18 10:17:12.778 ERROR Request failed due to timeout
+java.net.SocketTimeoutException: Read timed out

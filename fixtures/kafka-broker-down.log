@@ -1,0 +1,1 @@
+org.apache.kafka.common.errors.TimeoutException: Failed to update metadata after 60000 ms.

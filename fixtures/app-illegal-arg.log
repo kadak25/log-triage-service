@@ -1,0 +1,2 @@
+java.lang.IllegalArgumentException: Price must be greater than zero
+	at com.myapp.service.PricingService.calculate(PricingService.java:19)

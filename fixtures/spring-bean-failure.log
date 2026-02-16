@@ -1,0 +1,2 @@
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource'
+Caused by: java.lang.IllegalStateException: Failed to load driver class

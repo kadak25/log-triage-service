@@ -1,0 +1,3 @@
+2026-03-18 10:17:12.778 ERROR Request failed due to timeout
+java.net.SocketTimeoutException: Read timed out
+    at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
